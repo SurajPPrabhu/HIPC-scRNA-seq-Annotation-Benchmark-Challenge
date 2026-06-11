@@ -1,6 +1,5 @@
 # HIPC-scRNA-seq-Annotation-Benchmark-Challenge
-Github repo for submission of the HIPC annotation challenge.
-Here's a README draft — paste this into the GitHub editor:
+
 
 ```markdown
 # HIPC scRNA-seq Annotation Benchmark Challenge — Team 11
