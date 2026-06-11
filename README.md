@@ -1,7 +1,7 @@
 # HIPC-scRNA-seq-Annotation-Benchmark-Challenge
 
 
-```markdown
+
 # HIPC scRNA-seq Annotation Benchmark Challenge — Team 11
 
 Fred Hutchinson Cancer Center
@@ -12,13 +12,13 @@ This repository contains the cell type annotation pipeline and submission files 
 
 ## Repository Structure
 
-```
+
 ├── HIPC_annotation_pipeline.ipynb   # Full reproducible pipeline
 ├── Annotations/                     # Per-study annotation TSVs
 ├── HIPC_cell_markers.xlsx           # Marker genes used for validation
 ├── Validation_marker_genes.pdf      # Marker gene plots
 └── README.md
-```
+
 
 ## Studies Annotated
 
