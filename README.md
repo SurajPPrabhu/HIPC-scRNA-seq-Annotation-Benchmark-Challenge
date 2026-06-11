@@ -9,7 +9,7 @@ Fred Hutchinson Cancer Center
 ## Overview
 
 This repository contains the cell type annotation pipeline and submission files for the HIPC scRNA-seq Annotation Benchmark Challenge. We annotated 8 assigned studies across infection and vaccination cohorts using an automated pipeline based on CellTypist with manual validation.
-
+```
 ## Repository Structure
 
 
@@ -18,7 +18,7 @@ This repository contains the cell type annotation pipeline and submission files 
 ├── HIPC_cell_markers.xlsx           # Marker genes used for validation
 ├── Validation_marker_genes.pdf      # Marker gene plots
 └── README.md
-
+```
 
 ## Studies Annotated
 
