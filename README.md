@@ -1,4 +1,4 @@
-# HIPC scRNA-seq Annotation Benchmark Challenge — Team 11
+# HIPC scRNA-seq Annotation Benchmark Challenge- Team 11
 
 Fred Hutchinson Cancer Center
 
