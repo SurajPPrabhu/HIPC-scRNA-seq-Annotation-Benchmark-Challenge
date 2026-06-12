@@ -10,6 +10,7 @@ This repository contains the cell type annotation pipeline and submission files 
 
 
 ├── HIPC_annotation_pipeline.ipynb   # Full reproducible pipeline
+├── HIPC scRNA_draft summary.docx    # summary of methods used
 ├── Annotations/                     # Per-study annotation TSVs
 ├── HIPC_cell_markers.xlsx           # Marker genes used for validation
 ├── Validation_marker_genes.pdf      # Marker gene plots
