@@ -46,8 +46,7 @@ This repository contains the cell type annotation pipeline and submission files 
 ## Software
 
 Python 3.11.3, scanpy 1.9.8, celltypist, harmonypy, scrublet, mygene, anndata
-
 ## Notes
 
 File paths in the notebook are specific to the Fred Hutch HPC cluster and will need to be updated for local execution.
-```
+
